@@ -1,0 +1,5 @@
+{"versions": [
+{"name": "master-dev", "url": "/halite/master/", "released": false}
+,{"name": "0.10.5", "url": "/halite/0.10.5/"}
+,{"name": "0.10.4", "url": "/halite/0.10.4/"}
+]}
